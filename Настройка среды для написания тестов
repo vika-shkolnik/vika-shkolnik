@@ -1,0 +1,22 @@
+1. Скачать JDK - https://www.comss.ru/download/page.php?id=1046
+2. Cкачать Maven - https://maven.apache.org/download.cgi
+3. Cкачать драйвер хрома - https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+4. Cкачать виниум драйвер - https://github.com/2gis/Winium.Desktop/releases
+5. Скачать testing - для запуска тестов
+6. Cкачать allure - для формирования отчета
+7. UISpy - для поиска элементов windows
+8. Inspect – для поиска элементов windows
+9. Selenuim-server - для управления браузером
+
+1. Добавить JAVA_HOME, указав путь до до папки bin, где лежит jdk, после этого будет доступно создание класса
+2. Установить путь до папки bin maven в переменную окружения path (https://www.youtube.com/watch?v=CVnduTbuvcU&t=207s)
+
+3. Cоздать проект с groupid – org.example
+4. Cоздать пакет - org.example, затем класс
+5. Edit Config https://www.youtube.com/watch?v=tSTvCyqeeYY
+6. Добавить jar ники все, которые нужны, так как инета нет и мавен не сможет их сам скачать - https://javadevblog.com/kak-dobavit-biblioteku-jar-fajl-v-proekt-intellij-idea.html в модули и библиотеки
+
+Как добавить библиотеку (.jar файл) в проект Intellij IDEA — Программирование на Java, Android
+javadevblog.com
+
+
